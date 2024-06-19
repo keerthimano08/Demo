@@ -1,0 +1,17 @@
+{
+    "name" : "keerthi",
+    "lastname" : "mano",
+    "age" : "24",
+    "address":{
+        "city":"chennai",
+        "state":"Tamilnadu"
+    }
+
+    name1 : "keerthi",
+    lastname1 : "mano",
+    age1 : "24",
+    address1:{
+        city1:"chennai",
+        state1:"Tamilnadu"
+    }
+}
